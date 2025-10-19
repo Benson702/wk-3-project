@@ -1,0 +1,2 @@
+n_stops,n_clusters,num_routes,route_size,map_file,stops_csv,clusters_csv,routes_csv
+300,25,5,5,/mnt/data/transport_clustering_output/transport_routes_map.html,/mnt/data/transport_clustering_output/stops_with_clusters.csv,/mnt/data/transport_clustering_output/clusters_summary.csv,/mnt/data/transport_clustering_output/routes_clusters.csv
